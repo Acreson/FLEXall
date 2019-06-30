@@ -1,9 +1,10 @@
-Package: com.dgh0st.flexall
-Name: FLEXall
+Package: acreson.flexall
+Name: FLEXall FLEX动态加载器
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 1.0.0
 Architecture: iphoneos-arm
-Description: Load FLEX loader dynamically.
-Maintainer: DGh0st <deeppwnage@yahoo.com>
+Description: 动态加载FLEX加载器。FLEX装载机可以通过长按状态栏或长按三指按下任意位置来激活。Another FLEX loader that can be activated using long press on status bar or long three finger press anywhere.
+Maintainer: Acreson <342080124@qq.com>
 Author: DGh0st <deeppwnage@yahoo.com>
-Section: Tweaks
+Section: Acreson-插件(Tweaks)
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
