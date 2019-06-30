@@ -1,3 +1,7 @@
+export THEOS = /opt/theos
+export THEOS_DEVICE_IP = 10.0.0.30
+export THEOS_DEVICE_PORT = 22
+
 export ARCHS = armv7 armv7s arm64 arm64e
 export TARGET = iphone:clang:latest:9.0
 
